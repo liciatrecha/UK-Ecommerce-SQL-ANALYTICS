@@ -1,0 +1,251 @@
+product_id,product_name,category,brand,unit_price,cost_price
+1,Vertex Beauty Product 001,Beauty,Apex,25.68,18.51
+2,Orbit Fashion Product 002,Fashion,Nova,221.43,122.66
+3,Apex Office Product 003,Office,Pulse,83.79,59.4
+4,Orbit Electronics Product 004,Electronics,Nova,183.78,131.69
+5,Vivid Beauty Product 005,Beauty,Harbor,13.0,9.21
+6,Vivid Fashion Product 006,Fashion,Vertex,16.62,11.03
+7,Vivid Home & Garden Product 007,Home & Garden,Vivid,14.6,9.87
+8,Harbor Sports Product 008,Sports,Orbit,190.3,92.04
+9,Apex Sports Product 009,Sports,Luma,77.25,40.28
+10,Nova Beauty Product 010,Beauty,Vivid,72.53,44.12
+11,Vertex Beauty Product 011,Beauty,Vertex,8.53,6.18
+12,Harbor Beauty Product 012,Beauty,Luma,163.9,85.16
+13,Orbit Office Product 013,Office,Apex,120.31,93.67
+14,Nova Sports Product 014,Sports,Apex,20.59,14.1
+15,Luma Beauty Product 015,Beauty,Harbor,14.09,10.28
+16,Luma Office Product 016,Office,Nova,11.62,6.05
+17,Vivid Electronics Product 017,Electronics,Luma,68.9,33.41
+18,Nova Sports Product 018,Sports,Luma,59.58,39.8
+19,Nova Office Product 019,Office,Orbit,28.43,13.69
+20,Apex Fashion Product 020,Fashion,Vertex,25.83,14.77
+21,Vivid Office Product 021,Office,Luma,54.36,40.56
+22,Vivid Electronics Product 022,Electronics,Nova,39.79,27.5
+23,Orbit Fashion Product 023,Fashion,Nova,25.9,18.62
+24,Harbor Electronics Product 024,Electronics,Orbit,84.75,46.64
+25,Luma Home & Garden Product 025,Home & Garden,Apex,55.88,33.47
+26,Vertex Beauty Product 026,Beauty,Vivid,92.21,71.09
+27,Vivid Beauty Product 027,Beauty,Nova,14.9,9.36
+28,Nova Electronics Product 028,Electronics,Orbit,138.71,87.14
+29,Vivid Sports Product 029,Sports,Pulse,75.0,45.46
+30,Luma Electronics Product 030,Electronics,Vertex,29.19,16.8
+31,Orbit Electronics Product 031,Electronics,Harbor,189.3,90.9
+32,Apex Office Product 032,Office,Luma,11.09,6.86
+33,Orbit Sports Product 033,Sports,Luma,12.48,8.09
+34,Luma Sports Product 034,Sports,Vivid,252.13,173.88
+35,Vivid Sports Product 035,Sports,Nova,266.9,143.63
+36,Pulse Fashion Product 036,Fashion,Vertex,139.27,95.46
+37,Apex Beauty Product 037,Beauty,Harbor,20.65,10.06
+38,Nova Sports Product 038,Sports,Vivid,13.94,10.41
+39,Vertex Office Product 039,Office,Luma,70.55,43.1
+40,Vertex Office Product 040,Office,Pulse,29.29,20.17
+41,Apex Beauty Product 041,Beauty,Vivid,11.7,7.51
+42,Harbor Office Product 042,Office,Luma,35.71,19.52
+43,Harbor Electronics Product 043,Electronics,Orbit,28.04,20.35
+44,Harbor Sports Product 044,Sports,Vertex,220.38,151.56
+45,Harbor Fashion Product 045,Fashion,Nova,23.24,12.5
+46,Orbit Fashion Product 046,Fashion,Luma,86.59,40.82
+47,Luma Electronics Product 047,Electronics,Pulse,70.64,34.17
+48,Luma Home & Garden Product 048,Home & Garden,Pulse,69.35,44.48
+49,Harbor Home & Garden Product 049,Home & Garden,Orbit,75.87,47.73
+50,Nova Home & Garden Product 050,Home & Garden,Vertex,22.39,12.04
+51,Vertex Sports Product 051,Sports,Nova,270.52,200.32
+52,Orbit Home & Garden Product 052,Home & Garden,Harbor,163.93,99.71
+53,Vivid Fashion Product 053,Fashion,Apex,213.48,126.0
+54,Apex Fashion Product 054,Fashion,Apex,184.57,101.32
+55,Apex Home & Garden Product 055,Home & Garden,Vertex,90.16,51.22
+56,Luma Fashion Product 056,Fashion,Vertex,201.57,138.25
+57,Vertex Electronics Product 057,Electronics,Vertex,33.57,20.37
+58,Nova Sports Product 058,Sports,Pulse,19.48,9.97
+59,Nova Home & Garden Product 059,Home & Garden,Orbit,13.98,7.77
+60,Apex Fashion Product 060,Fashion,Harbor,28.86,16.15
+61,Nova Office Product 061,Office,Luma,24.33,13.84
+62,Orbit Beauty Product 062,Beauty,Vivid,18.62,9.27
+63,Apex Electronics Product 063,Electronics,Harbor,395.6,219.52
+64,Vertex Electronics Product 064,Electronics,Orbit,82.08,44.35
+65,Harbor Fashion Product 065,Fashion,Harbor,24.98,18.21
+66,Vivid Sports Product 066,Sports,Apex,63.33,44.64
+67,Orbit Home & Garden Product 067,Home & Garden,Nova,19.3,12.17
+68,Nova Office Product 068,Office,Harbor,107.9,65.0
+69,Luma Fashion Product 069,Fashion,Apex,12.75,6.88
+70,Orbit Sports Product 070,Sports,Harbor,286.91,178.06
+71,Vertex Electronics Product 071,Electronics,Pulse,327.72,214.8
+72,Harbor Sports Product 072,Sports,Orbit,19.66,12.39
+73,Vertex Fashion Product 073,Fashion,Harbor,10.18,6.92
+74,Vivid Fashion Product 074,Fashion,Orbit,142.51,107.88
+75,Orbit Sports Product 075,Sports,Apex,110.69,61.77
+76,Orbit Fashion Product 076,Fashion,Pulse,107.53,76.9
+77,Apex Electronics Product 077,Electronics,Apex,326.66,213.15
+78,Luma Office Product 078,Office,Nova,7.83,5.71
+79,Pulse Sports Product 079,Sports,Vertex,33.85,23.02
+80,Nova Sports Product 080,Sports,Pulse,14.83,7.23
+81,Apex Sports Product 081,Sports,Harbor,188.33,127.18
+82,Vertex Electronics Product 082,Electronics,Harbor,199.5,103.41
+83,Vertex Beauty Product 083,Beauty,Harbor,22.41,17.3
+84,Luma Office Product 084,Office,Apex,7.54,4.67
+85,Pulse Beauty Product 085,Beauty,Pulse,21.07,13.65
+86,Vivid Sports Product 086,Sports,Nova,30.22,14.09
+87,Orbit Fashion Product 087,Fashion,Luma,107.74,59.1
+88,Orbit Fashion Product 088,Fashion,Luma,79.82,37.16
+89,Harbor Sports Product 089,Sports,Orbit,204.42,144.98
+90,Harbor Office Product 090,Office,Harbor,32.87,20.19
+91,Pulse Electronics Product 091,Electronics,Harbor,37.24,19.98
+92,Orbit Electronics Product 092,Electronics,Pulse,269.23,158.79
+93,Vivid Beauty Product 093,Beauty,Vivid,85.47,48.05
+94,Vivid Electronics Product 094,Electronics,Orbit,162.25,114.13
+95,Vertex Home & Garden Product 095,Home & Garden,Nova,161.64,95.42
+96,Pulse Home & Garden Product 096,Home & Garden,Orbit,63.47,45.3
+97,Luma Sports Product 097,Sports,Luma,59.18,41.68
+98,Orbit Beauty Product 098,Beauty,Nova,30.28,14.71
+99,Pulse Office Product 099,Office,Pulse,6.58,3.46
+100,Nova Electronics Product 100,Electronics,Harbor,35.82,18.01
+101,Apex Home & Garden Product 101,Home & Garden,Luma,13.34,6.67
+102,Vivid Home & Garden Product 102,Home & Garden,Harbor,102.67,78.87
+103,Vivid Sports Product 103,Sports,Orbit,29.13,16.97
+104,Apex Beauty Product 104,Beauty,Harbor,38.97,17.89
+105,Luma Electronics Product 105,Electronics,Orbit,514.44,351.89
+106,Apex Electronics Product 106,Electronics,Pulse,57.37,43.06
+107,Orbit Fashion Product 107,Fashion,Harbor,38.08,29.62
+108,Nova Electronics Product 108,Electronics,Apex,309.99,188.04
+109,Harbor Fashion Product 109,Fashion,Vivid,21.07,14.42
+110,Luma Fashion Product 110,Fashion,Vertex,12.85,9.49
+111,Pulse Home & Garden Product 111,Home & Garden,Vivid,31.89,24.15
+112,Orbit Electronics Product 112,Electronics,Vivid,42.78,21.16
+113,Harbor Office Product 113,Office,Orbit,170.79,124.92
+114,Harbor Office Product 114,Office,Apex,110.22,54.96
+115,Luma Electronics Product 115,Electronics,Nova,206.34,106.74
+116,Vertex Beauty Product 116,Beauty,Vivid,120.63,67.9
+117,Pulse Sports Product 117,Sports,Harbor,153.86,113.23
+118,Nova Fashion Product 118,Fashion,Vivid,18.37,11.63
+119,Luma Office Product 119,Office,Pulse,149.4,115.71
+120,Luma Fashion Product 120,Fashion,Orbit,57.96,28.53
+121,Vertex Office Product 121,Office,Pulse,109.95,81.36
+122,Orbit Beauty Product 122,Beauty,Nova,130.25,59.96
+123,Orbit Sports Product 123,Sports,Orbit,29.49,19.62
+124,Vivid Beauty Product 124,Beauty,Pulse,11.27,7.82
+125,Apex Home & Garden Product 125,Home & Garden,Apex,25.89,12.85
+126,Luma Home & Garden Product 126,Home & Garden,Vivid,50.68,27.58
+127,Vivid Fashion Product 127,Fashion,Apex,143.7,86.04
+128,Vertex Sports Product 128,Sports,Vertex,186.81,125.03
+129,Luma Office Product 129,Office,Vivid,6.15,3.11
+130,Harbor Home & Garden Product 130,Home & Garden,Luma,67.2,48.42
+131,Pulse Sports Product 131,Sports,Nova,41.36,27.55
+132,Apex Electronics Product 132,Electronics,Harbor,52.4,40.22
+133,Orbit Electronics Product 133,Electronics,Pulse,37.27,25.56
+134,Nova Home & Garden Product 134,Home & Garden,Harbor,37.48,24.4
+135,Pulse Home & Garden Product 135,Home & Garden,Luma,288.69,155.32
+136,Pulse Home & Garden Product 136,Home & Garden,Vertex,35.7,26.45
+137,Nova Electronics Product 137,Electronics,Apex,140.84,87.3
+138,Harbor Office Product 138,Office,Vivid,75.49,45.78
+139,Apex Beauty Product 139,Beauty,Harbor,24.82,14.0
+140,Orbit Home & Garden Product 140,Home & Garden,Orbit,318.22,169.91
+141,Pulse Office Product 141,Office,Orbit,192.17,103.08
+142,Vertex Electronics Product 142,Electronics,Pulse,57.85,39.18
+143,Vertex Sports Product 143,Sports,Vivid,54.26,37.03
+144,Apex Fashion Product 144,Fashion,Nova,26.65,17.64
+145,Pulse Office Product 145,Office,Vertex,16.74,11.09
+146,Luma Electronics Product 146,Electronics,Vivid,28.27,21.68
+147,Orbit Fashion Product 147,Fashion,Harbor,72.86,52.12
+148,Harbor Fashion Product 148,Fashion,Luma,51.44,38.17
+149,Nova Office Product 149,Office,Orbit,7.22,5.62
+150,Vivid Beauty Product 150,Beauty,Luma,19.05,13.84
+151,Orbit Electronics Product 151,Electronics,Vivid,515.64,347.92
+152,Harbor Beauty Product 152,Beauty,Vertex,16.87,7.79
+153,Harbor Electronics Product 153,Electronics,Orbit,40.52,20.57
+154,Vertex Home & Garden Product 154,Home & Garden,Vertex,62.54,40.37
+155,Vertex Home & Garden Product 155,Home & Garden,Vertex,333.46,212.56
+156,Luma Electronics Product 156,Electronics,Apex,56.01,43.42
+157,Vivid Office Product 157,Office,Nova,67.54,39.13
+158,Vertex Home & Garden Product 158,Home & Garden,Luma,156.63,97.21
+159,Nova Fashion Product 159,Fashion,Vertex,21.69,10.96
+160,Nova Electronics Product 160,Electronics,Apex,283.0,128.74
+161,Luma Home & Garden Product 161,Home & Garden,Nova,41.49,18.89
+162,Harbor Office Product 162,Office,Vivid,58.51,34.71
+163,Nova Electronics Product 163,Electronics,Nova,206.42,127.49
+164,Vivid Office Product 164,Office,Harbor,41.33,20.26
+165,Apex Fashion Product 165,Fashion,Orbit,13.42,6.88
+166,Apex Sports Product 166,Sports,Orbit,171.33,80.59
+167,Vertex Office Product 167,Office,Orbit,19.05,14.41
+168,Vertex Office Product 168,Office,Apex,11.75,7.57
+169,Vivid Electronics Product 169,Electronics,Orbit,28.64,16.87
+170,Luma Fashion Product 170,Fashion,Vertex,68.56,37.98
+171,Pulse Sports Product 171,Sports,Apex,100.19,46.24
+172,Nova Home & Garden Product 172,Home & Garden,Vivid,12.69,9.21
+173,Luma Sports Product 173,Sports,Nova,57.07,32.65
+174,Pulse Beauty Product 174,Beauty,Harbor,16.19,9.62
+175,Pulse Electronics Product 175,Electronics,Nova,214.59,160.51
+176,Harbor Electronics Product 176,Electronics,Harbor,44.7,34.46
+177,Harbor Office Product 177,Office,Harbor,72.27,38.93
+178,Nova Electronics Product 178,Electronics,Harbor,90.7,68.24
+179,Apex Beauty Product 179,Beauty,Apex,147.82,100.86
+180,Orbit Home & Garden Product 180,Home & Garden,Nova,19.08,13.67
+181,Pulse Fashion Product 181,Fashion,Apex,30.38,17.67
+182,Orbit Fashion Product 182,Fashion,Vivid,14.47,6.71
+183,Nova Fashion Product 183,Fashion,Pulse,203.43,143.44
+184,Harbor Home & Garden Product 184,Home & Garden,Harbor,231.41,146.0
+185,Luma Beauty Product 185,Beauty,Harbor,17.86,11.19
+186,Harbor Fashion Product 186,Fashion,Luma,85.87,49.65
+187,Nova Sports Product 187,Sports,Vertex,161.12,101.21
+188,Apex Fashion Product 188,Fashion,Vivid,61.04,38.13
+189,Vivid Office Product 189,Office,Apex,40.43,23.05
+190,Harbor Beauty Product 190,Beauty,Luma,16.99,9.68
+191,Vivid Electronics Product 191,Electronics,Harbor,34.09,15.6
+192,Vertex Fashion Product 192,Fashion,Luma,186.01,85.07
+193,Luma Electronics Product 193,Electronics,Harbor,502.33,372.12
+194,Vivid Beauty Product 194,Beauty,Luma,57.43,33.05
+195,Apex Beauty Product 195,Beauty,Nova,22.99,16.12
+196,Pulse Fashion Product 196,Fashion,Luma,31.2,23.73
+197,Pulse Sports Product 197,Sports,Pulse,118.12,73.05
+198,Vivid Electronics Product 198,Electronics,Vivid,496.82,298.48
+199,Apex Office Product 199,Office,Luma,146.49,89.52
+200,Luma Sports Product 200,Sports,Apex,141.9,68.38
+201,Luma Office Product 201,Office,Orbit,60.6,29.11
+202,Harbor Office Product 202,Office,Luma,8.12,4.82
+203,Luma Home & Garden Product 203,Home & Garden,Luma,20.7,13.44
+204,Pulse Sports Product 204,Sports,Apex,212.46,127.11
+205,Orbit Office Product 205,Office,Pulse,53.31,28.68
+206,Apex Home & Garden Product 206,Home & Garden,Pulse,12.38,8.35
+207,Vivid Beauty Product 207,Beauty,Nova,10.97,6.09
+208,Luma Fashion Product 208,Fashion,Nova,86.86,63.31
+209,Luma Home & Garden Product 209,Home & Garden,Pulse,12.21,7.5
+210,Nova Electronics Product 210,Electronics,Nova,42.72,20.12
+211,Vertex Sports Product 211,Sports,Pulse,64.65,37.84
+212,Vivid Electronics Product 212,Electronics,Luma,250.74,130.31
+213,Orbit Home & Garden Product 213,Home & Garden,Vivid,108.2,84.11
+214,Luma Fashion Product 214,Fashion,Pulse,20.77,15.43
+215,Nova Beauty Product 215,Beauty,Nova,73.47,35.22
+216,Luma Fashion Product 216,Fashion,Luma,21.66,14.67
+217,Vivid Office Product 217,Office,Vertex,19.37,9.29
+218,Apex Sports Product 218,Sports,Harbor,126.67,96.36
+219,Pulse Fashion Product 219,Fashion,Nova,83.03,50.56
+220,Pulse Electronics Product 220,Electronics,Nova,423.55,203.38
+221,Pulse Fashion Product 221,Fashion,Nova,85.21,55.51
+222,Apex Sports Product 222,Sports,Apex,69.1,38.28
+223,Apex Sports Product 223,Sports,Nova,13.75,9.56
+224,Vivid Home & Garden Product 224,Home & Garden,Nova,41.48,29.9
+225,Vertex Home & Garden Product 225,Home & Garden,Nova,29.35,13.53
+226,Harbor Electronics Product 226,Electronics,Pulse,56.37,38.02
+227,Vivid Electronics Product 227,Electronics,Orbit,639.79,479.2
+228,Apex Office Product 228,Office,Orbit,24.72,15.71
+229,Orbit Beauty Product 229,Beauty,Vertex,128.62,92.29
+230,Vivid Home & Garden Product 230,Home & Garden,Harbor,100.86,65.13
+231,Vertex Fashion Product 231,Fashion,Harbor,133.24,75.11
+232,Orbit Fashion Product 232,Fashion,Orbit,51.43,39.38
+233,Harbor Electronics Product 233,Electronics,Apex,170.93,131.03
+234,Luma Office Product 234,Office,Vivid,35.37,18.28
+235,Apex Beauty Product 235,Beauty,Vertex,14.69,10.98
+236,Apex Office Product 236,Office,Nova,80.96,43.32
+237,Luma Electronics Product 237,Electronics,Pulse,63.72,44.96
+238,Harbor Office Product 238,Office,Vertex,6.55,4.43
+239,Vivid Electronics Product 239,Electronics,Orbit,214.8,111.78
+240,Pulse Office Product 240,Office,Vivid,11.36,6.07
+241,Pulse Home & Garden Product 241,Home & Garden,Luma,286.32,168.59
+242,Harbor Electronics Product 242,Electronics,Orbit,600.38,464.14
+243,Nova Sports Product 243,Sports,Harbor,224.58,134.25
+244,Vertex Fashion Product 244,Fashion,Orbit,33.4,24.85
+245,Vertex Fashion Product 245,Fashion,Orbit,10.52,8.09
+246,Vertex Beauty Product 246,Beauty,Harbor,143.99,108.56
+247,Orbit Office Product 247,Office,Harbor,28.05,21.09
+248,Nova Fashion Product 248,Fashion,Pulse,233.23,130.66
+249,Vivid Sports Product 249,Sports,Orbit,265.08,180.93
+250,Pulse Sports Product 250,Sports,Vivid,181.97,119.11
