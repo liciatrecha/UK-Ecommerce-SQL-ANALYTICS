@@ -12,7 +12,7 @@ The project analyses customer behaviour, sales performance, product profitabilit
 
 ## Business questions
 
-- Which months and regions generate the most revenue?
+-Which months and regions generate the most revenue?
 - Which products drive revenue and gross profit?
 - Who are the highest-value customers?
 - Which customers are Champions, Loyal, At Risk or Hibernating?
