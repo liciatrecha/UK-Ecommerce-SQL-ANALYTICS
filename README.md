@@ -19,28 +19,46 @@ Which months and regions generate the most revenue?
 Who are the highest-value customers?
 
 Which customers are Champions, Loyal, At Risk or Hibernating?
+
  What is monthly and cohort customer retention?
+ 
  Which sales channel has stronger repeat purchasing?
+ 
  Which product categories have the highest return rates?
+ 
 Which high-revenue products have weak margins?
+
 Which customers are growing or declining month over month?
+
 
 ## Advanced SQL demonstrated
 
 This project uses:
 
 Multi-table JOINs
+
 CTEs
+
  Window functions
+ 
  `LAG()` and `NTILE()`
+ 
  Ranking with `DENSE_RANK()`
+ 
  Cohort analysis
+ 
 RFM segmentation
+
  Conditional aggregation with `FILTER`
+ 
  Percentile ranking with `PERCENT_RANK()`
+ 
  Date/time analysis
+ 
 Customer retention analysis
+
  Churn-risk classification
+ 
  Profit and margin calculations
 
 ## Project structure
@@ -104,11 +122,17 @@ All data is synthetic and created specifically for this portfolio project. It is
 ## Future improvements
 
  Connect the SQL model to Power BI
+ 
  Add an automated ETL pipeline
+ 
 Add customer acquisition cost and marketing data
+
 Add forecasting
+
 Add an interactive executive dashboard
+
  Rebuild the analysis in a cloud warehouse such as BigQuery or Snowflake
+ 
 
 ## Author
 
