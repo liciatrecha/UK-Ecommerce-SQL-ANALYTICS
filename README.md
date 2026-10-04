@@ -1,4 +1,4 @@
-# 🛒 UK E-commerce Customer & Sales Analytics — SQL
+#  UK E-commerce Customer & Sales Analytics — SQL
 
 ## Project overview
 
