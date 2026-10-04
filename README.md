@@ -138,4 +138,8 @@ Add an interactive executive dashboard
 
 Computer Science student building a portfolio for **Data Analyst / Business Analyst / BI internship opportunities**.
 
-Skills: **SQL • Python • Data Analysis • Data Visualisation • Business Intelligence**
+Skills: 
+SQL 
+Python 
+Data Analysis 
+Data Visualisation 
